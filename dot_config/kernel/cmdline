@@ -1,0 +1,2 @@
+root=UUID=0de9ff19-1515-41e7-8a7b-04fe4be32756 rw quiet splash intel_idle.max_cstate=0 nvidia_drm.modeset=1 nvidia_drm.fbdev=1 NVreg_PreserveVideoMemoryAllocations=1 NVreg_UsePageAttributeTable=1
+
